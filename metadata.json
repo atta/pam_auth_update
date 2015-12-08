@@ -1,0 +1,15 @@
+{
+  "name": "ajaz-pam_auth_update",
+  "version": "0.1.0",
+  "author": "ajaz",
+  "summary": "add configs to pam and enable them with pam-auth-update",
+  "license": "Apache-2.0",
+  "source": "https://github.com/atta/pam_auth_update.git",
+  "project_page": "https://github.com/atta/pam_auth_update.git",
+  "issues_url": "https://github.com/atta/pam_auth_update/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
